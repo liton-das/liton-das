@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mern-Stack Development**
 
-- 💬 Ask me about **react,ejs.js,express.js,node.js**
+- 💬 Ask me about **react,ejs.js,express.js,node**
 
 - 📫 How to reach me **litonchandra094@gmail.com**
 
