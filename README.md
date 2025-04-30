@@ -1,51 +1,27 @@
-## About Me
+# 💫 About Me:
+🔭 Hi, I'm Liton das, a passionate mern-stack web developer with a love for building scalable, user-friendly applications. With a strong foundation in both frontend and backend technologies, I enjoy working on projects that solve real-world problems. I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends. When I'm not coding, you can find me experimenting with new technologies, contributing to open-source projects, or sharing my knowledge with the developer community.
 
-Hi, I'm Liton das, a passionate mern-stack web developer with a love for building scalable, user-friendly applications. With a strong foundation in both frontend and backend technologies, I enjoy working on projects that solve real-world problems. I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends. When I'm not coding, you can find me experimenting with new technologies, contributing to open-source projects, or sharing my knowledge with the developer community.
 
-## My Skills
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RjRaj)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:litonchandra094@gmail.com) 
 
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
-<img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff"> 
-<img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> 
-<img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
-<img src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white"> 
-<img src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff"> 
-<img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Remix-000?logo=remix&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
-<img src="https://img.shields.io/badge/Strapi-%232E7EEA.svg?logo=strapi&logoColor=white"> 
-<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe"> 
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Amazon%20Alexa-00CAFF?logo=amazonalexa&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000"> 
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff"> 
-<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff"> 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=liton-das&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=liton-das&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=liton-das&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## GitHub Stats
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=liton-das&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=liton-das&theme=dark&show_icons=true&count_private=true">
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=liton-das&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=liton-das&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=liton-das&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-## Connect with me
+---
+[![](https://visitcount.itsvg.in/api?id=liton-das&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">🔗 LinkedIn: <a href="www.linkedin.com/in/rj-raj-53b5322a3" target="_blank">Liton Das</a> Email: litonchandra094@gmail.com</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
